@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdnanBinPulok
-- 👀 I’m interested in Python,css,php,c
+- 👀 I’m interested in Python, APIS, AutoMation, AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord Bots,Automation,And Some More
 - 📫 How to reach me {via discord or use my mail (adnanbinpulok@gmail.com)}
